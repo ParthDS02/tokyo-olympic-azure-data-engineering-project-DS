@@ -1,5 +1,7 @@
 # tokyo-olympic-azure-data-engineering-project-ds (ETL = Extraction, Transformation and Load the Data)
 
+![Flow Diagram draw](https://github.com/user-attachments/assets/1ad74f23-c6c1-4cd0-98f2-05dbc6b75d9e)
+
 **Project Overview:**
 
 This project aims to build a complete data pipeline for Olympic Data Analytics using various Azure services. It focuses on ingesting, transforming, and analyzing Olympic data, such as information on athletes, teams, medals, gender participation, etc. The entire solution is designed and deployed on Azure.
